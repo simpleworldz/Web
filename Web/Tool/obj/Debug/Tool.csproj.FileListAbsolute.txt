@@ -1,0 +1,16 @@
+F:\Code\C#\Web\Tool\bin\Debug\Tool.dll
+F:\Code\C#\Web\Tool\bin\Debug\Tool.pdb
+F:\Code\C#\Web\Tool\obj\Debug\Tool.dll
+F:\Code\C#\Web\Tool\obj\Debug\Tool.pdb
+E:\Code\C#\Web\Tool\bin\Debug\Tool.dll
+E:\Code\C#\Web\Tool\bin\Debug\Tool.pdb
+E:\Code\C#\Web\Tool\obj\Debug\Tool.csprojAssemblyReference.cache
+E:\Code\C#\Web\Tool\obj\Debug\Tool.csproj.CoreCompileInputs.cache
+E:\Code\C#\Web\Tool\obj\Debug\Tool.dll
+E:\Code\C#\Web\Tool\obj\Debug\Tool.pdb
+E:\GitHub\Web\Web\Tool\bin\Debug\Tool.dll
+E:\GitHub\Web\Web\Tool\bin\Debug\Tool.pdb
+E:\GitHub\Web\Web\Tool\obj\Debug\Tool.csprojAssemblyReference.cache
+E:\GitHub\Web\Web\Tool\obj\Debug\Tool.csproj.CoreCompileInputs.cache
+E:\GitHub\Web\Web\Tool\obj\Debug\Tool.dll
+E:\GitHub\Web\Web\Tool\obj\Debug\Tool.pdb

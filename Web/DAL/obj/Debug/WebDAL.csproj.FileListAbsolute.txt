@@ -1,0 +1,9 @@
+F:\Code\C#\Web\DAL\bin\Debug\WebDAL.dll.config
+F:\Code\C#\Web\DAL\bin\Debug\WebDAL.dll
+F:\Code\C#\Web\DAL\bin\Debug\WebDAL.pdb
+F:\Code\C#\Web\DAL\bin\Debug\System.Data.SQLite.DLL
+F:\Code\C#\Web\DAL\bin\Debug\WebModel.dll
+F:\Code\C#\Web\DAL\bin\Debug\WebModel.pdb
+F:\Code\C#\Web\DAL\obj\Debug\WebDAL.dll
+F:\Code\C#\Web\DAL\obj\Debug\WebDAL.pdb
+F:\Code\C#\Web\DAL\obj\Debug\WebDAL.csprojResolveAssemblyReference.cache
