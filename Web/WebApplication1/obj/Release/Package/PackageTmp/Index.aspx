@@ -8,7 +8,7 @@
     <title></title>
 </head>
 <body>
-     <h2 style="color:blue;text-align:center">这是zhen的第一个网站</h2>
+     <h2 style="color:blue;text-align:center">Hello World!</h2>
     <form id="form1" runat="server">
     <div>
     
