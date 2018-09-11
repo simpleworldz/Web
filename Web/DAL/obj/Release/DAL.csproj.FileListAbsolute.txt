@@ -1,0 +1,10 @@
+E:\GitHub\Web\Web\DAL\bin\Release\DAL.dll
+E:\GitHub\Web\Web\DAL\bin\Release\DAL.pdb
+E:\GitHub\Web\Web\DAL\bin\Release\Model.dll
+E:\GitHub\Web\Web\DAL\bin\Release\System.Data.SQLite.DLL
+E:\GitHub\Web\Web\DAL\bin\Release\Model.pdb
+E:\GitHub\Web\Web\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+E:\GitHub\Web\Web\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+E:\GitHub\Web\Web\DAL\obj\Release\DAL.csproj.CopyComplete
+E:\GitHub\Web\Web\DAL\obj\Release\DAL.dll
+E:\GitHub\Web\Web\DAL\obj\Release\DAL.pdb

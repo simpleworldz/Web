@@ -1,0 +1,6 @@
+E:\GitHub\Web\Web\Tool\bin\Release\Tool.dll
+E:\GitHub\Web\Web\Tool\bin\Release\Tool.pdb
+E:\GitHub\Web\Web\Tool\obj\Release\Tool.csprojAssemblyReference.cache
+E:\GitHub\Web\Web\Tool\obj\Release\Tool.csproj.CoreCompileInputs.cache
+E:\GitHub\Web\Web\Tool\obj\Release\Tool.dll
+E:\GitHub\Web\Web\Tool\obj\Release\Tool.pdb

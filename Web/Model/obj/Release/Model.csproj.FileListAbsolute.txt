@@ -1,0 +1,6 @@
+E:\GitHub\Web\Web\Model\bin\Release\Model.dll
+E:\GitHub\Web\Web\Model\bin\Release\Model.pdb
+E:\GitHub\Web\Web\Model\obj\Release\Model.csprojAssemblyReference.cache
+E:\GitHub\Web\Web\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+E:\GitHub\Web\Web\Model\obj\Release\Model.dll
+E:\GitHub\Web\Web\Model\obj\Release\Model.pdb

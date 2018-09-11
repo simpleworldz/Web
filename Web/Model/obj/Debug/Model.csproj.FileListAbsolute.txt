@@ -10,7 +10,7 @@ E:\Code\C#\Web\Model\obj\Debug\Model.dll
 E:\Code\C#\Web\Model\obj\Debug\Model.pdb
 E:\GitHub\Web\Web\Model\bin\Debug\Model.dll
 E:\GitHub\Web\Web\Model\bin\Debug\Model.pdb
-E:\GitHub\Web\Web\Model\obj\Debug\Model.csprojAssemblyReference.cache
 E:\GitHub\Web\Web\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
 E:\GitHub\Web\Web\Model\obj\Debug\Model.dll
 E:\GitHub\Web\Web\Model\obj\Debug\Model.pdb
+E:\GitHub\Web\Web\Model\obj\Debug\Model.csprojAssemblyReference.cache

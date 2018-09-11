@@ -1,0 +1,14 @@
+E:\GitHub\Web\Web\BLL\bin\Release\BLL.dll
+E:\GitHub\Web\Web\BLL\bin\Release\BLL.pdb
+E:\GitHub\Web\Web\BLL\bin\Release\DAL.dll
+E:\GitHub\Web\Web\BLL\bin\Release\Model.dll
+E:\GitHub\Web\Web\BLL\bin\Release\Tool.dll
+E:\GitHub\Web\Web\BLL\bin\Release\System.Data.SQLite.dll
+E:\GitHub\Web\Web\BLL\bin\Release\DAL.pdb
+E:\GitHub\Web\Web\BLL\bin\Release\Model.pdb
+E:\GitHub\Web\Web\BLL\bin\Release\Tool.pdb
+E:\GitHub\Web\Web\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+E:\GitHub\Web\Web\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+E:\GitHub\Web\Web\BLL\obj\Release\BLL.csproj.CopyComplete
+E:\GitHub\Web\Web\BLL\obj\Release\BLL.dll
+E:\GitHub\Web\Web\BLL\obj\Release\BLL.pdb
